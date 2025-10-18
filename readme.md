@@ -18,12 +18,12 @@
 
 <h3 align="center" style="margin-top: 0px;">💻 Languages & Tools</h3>
 <p align="center">
-  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="45" /></a>
-  <a href="https://www.java.com/en/" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="45" /></a>
-  <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="45" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="45" /></a>
-  <a href="https://www.w3schools.com/js/" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" width="45" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="45" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" width="45" /></a>
+  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" width="45" /></a>
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" width="45" /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" width="45" /></a>
+  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=javascript" width="45" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" width="45" /></a>
 </p>
 
 ---
