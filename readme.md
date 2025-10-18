@@ -8,7 +8,7 @@
 <div>
 <p align="center">
   🏠 From <b>India 🇮🇳</b>, currently based in <b>Birmingham, UK 🇬🇧</b> — expanding my horizons and exploring new opportunities. <br><br>
-  🎓 <b>Computer Science student</b> at the University of Birmingham — driven by a passion for technology and its power to improve the world. <br><br>
+  🎓 <b>Computer Science student</b> at the <a href="https://www.birmingham.ac.uk/" target="_blank">University of Birmingham</a> — driven by a passion for technology and its power to improve the world. <br><br>
   💡 Enthusiastic about <b>building real-world projects</b> using <b>Python</b>, <b>data-driven technologies</b>, and <b>machine learning</b> — always striving to grow and push boundaries. <br><br>
   🤝 Open to <b>collaborations</b> and <b>creative ideas</b> — feel free to reach out on my socials anytime!
 </p>
